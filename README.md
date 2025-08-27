@@ -1,6 +1,6 @@
-# FaunaDIS
+# FaunaDis
 
-O **FaunaDIS** é um aplicativo desenvolvido em **Flutter** como parte do meu Trabalho de Conclusão de Curso (TCC), com o objetivo de apoiar professores e especialistas em psicopedagogia no diagnóstico da **discalculia**. O projeto combina ciência, tecnologia e gamificação, oferecendo desafios adaptativos, feedback em tempo real e relatórios detalhados em uma plataforma web.
+O **FaunaDis** é um aplicativo desenvolvido em **Flutter** como parte do meu Trabalho de Conclusão de Curso (TCC), com o objetivo de apoiar professores e especialistas em psicopedagogia no diagnóstico da **discalculia**. O projeto combina ciência, tecnologia e gamificação, oferecendo desafios adaptativos, feedback em tempo real e relatórios detalhados em uma plataforma web.
 
 
 ---
